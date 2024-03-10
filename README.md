@@ -1,5 +1,3 @@
-# Dice-Game
-
 # Dice Game
 
 ---
